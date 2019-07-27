@@ -1,3 +1,3 @@
 # tiff_to_png
-#Usage 
+# Usage 
    converter.py -i <inputfile> -o <outputfolder>
