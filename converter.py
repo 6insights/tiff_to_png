@@ -1,8 +1,6 @@
 #!/usr/bin/python
 import sys, getopt
 from PIL import Image
-from io import BytesIO
-import os, os.path
 def main(argv):
     try:
         opts, args = getopt.getopt(argv,"hi:o:",["ifile=","ofolder="])
